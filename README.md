@@ -9,4 +9,4 @@ La creation d'un site avec la faille CSRF pour la présenter à  la classe
     npm install
     npm start
   ### Faire l'exploit : 
-    ouvrir la page index.html qui va automatiquement faire le "virement" (elle peut etre envoyée par mail par exmple)
+    ouvrir la page index.html
